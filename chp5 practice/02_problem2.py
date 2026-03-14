@@ -1,0 +1,18 @@
+a = set()
+
+b=input("ENTER NUMBER:" )
+a.add(int(b))
+b=input("ENTER NUMBER:" )
+a.add(int(b))
+b=input("ENTER NUMBER:" )
+a.add(int(b))
+b=input("ENTER NUMBER:" )
+a.add(int(b))
+b=input("ENTER NUMBER:" )
+a.add(int(b))
+b=input("ENTER NUMBER:" )
+a.add(int(b))
+b=input("ENTER NUMBER:" )
+a.add(int(b))
+
+print(a)
