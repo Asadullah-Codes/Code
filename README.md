@@ -1,2 +1,1 @@
-I am just learning python and uploading my progress. 
-If you like It you can appreciate me which boost my confidence.
+I am learning Python and documenting my progress. If you like my work, feel free to give this repository a Star ⭐—it really boosts my confidence!
